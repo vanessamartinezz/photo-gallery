@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: dodgerblue;
+  flex-wrap: wrap;
+}
+
+.NewYork {
+  width: 300px;
+  height: 300px;
+  border: 10px  groove black;
+  object-fit: cover;
+  display: flex;
+  flex-wrap: wrap;
+}
+h1 {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  margin-bottom: -15px
+}
+h3 {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+.NewYork1 {
+  object-fit: cover;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-around;
+}
+.NewYork10 {
+  object-fit: cover;
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-around;
+}
+.NewYork6 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid dodgerblue;
+}
+.NewYork7 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid dodgerblue;
+}
+.NewYork8 {
+  width: 300px;
+  height: 300px;
+    border: 10px solid dodgerblue;
+}
+.NewYork9 {
+  width: 300px;
+  height: 300px;
+    border: 10px solid dodgerblue;
+}
+.NewYork2 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid dodgerblue;
+}
+.NewYork3 {
+  width: 300px;
+  height: 300px;
+    border: 10px solid dodgerblue;
+}
+.NewYork4 {
+  width: 300px;
+  height: 300px;
+    border: 10px solid dodgerblue;
+}
+.NewYork5 {
+  width: 300px;
+  height: 300px;
+    border: 10px solid dodgerblue;
+}
+.NewYork11 {
+  width: 300px;
+  height: 300px;
+    border: 10px solid dodgerblue;
+}
+.NewYork12 {
+  width: 300px;
+  height: 300px;
+    border: 10px solid dodgerblue;
+}
+.NewYork13 {
+  width: 300px;
+  height: 300px;
+    border: 10px solid dodgerblue;
+}
+.NewYork14 {
+  width: 300px;
+  height: 300px;
+    border: 10px solid dodgerblue;
+}
+.NewYork15 {
+  width: 300px;
+  height: 300px;
+    border: 10px solid dodgerblue;
+}
